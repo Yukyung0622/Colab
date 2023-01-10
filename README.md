@@ -1,5 +1,4 @@
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=orange"/>
-# Colab 
+# Colab <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=orange"/>
 * python 데이터 분석 기초
   - Colab_기본, Numpy, Pandas, Matplotlib, Seaborn, Python 데이터분석, 텍스트시각화
 * 머신러닝
